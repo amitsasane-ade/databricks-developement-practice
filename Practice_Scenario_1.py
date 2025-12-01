@@ -1,4 +1,9 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC ###Tricky Interview Scenario
+
+# COMMAND ----------
+
 import pandas as pd
 import numpy as np
 
